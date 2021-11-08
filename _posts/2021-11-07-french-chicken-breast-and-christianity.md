@@ -9,7 +9,7 @@ layout: post
 There haven't been too many new beginnings in my life (at least not in my adult life) but this one certainly felt like a big one.
 I would also say that this 'new begining' sometimes feels more like a 'new in-between'.
 Signing a letter to the Swiss immigration authorities saying that we would be leaving the country once my 2-year postdoc contract at ETH expires certainly adds to that feeling.
-Discussions of what will our lives look like in the not very distant future are very frequent.
+Discussions of what will our lives look like in the not so distant future are very frequent.
 Trying to answer that question leads to many questions about values, lifestyle, career, politics, and much more.
 Not only does this feel like a big turning point in mine and Victoria's life but it certainly feels like the world is generating a lot of situations that need to be broken down and reflected on.
 Hoping to gain some clarity, and record some nice memories and lessons, I felt the urge to write down what was happening during this period.
