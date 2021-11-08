@@ -17,7 +17,7 @@ So this marks the beginning of the attempt at doing just that, from the point of
 
 ## Cross-border Chicken Breast:  St. Louis, France
 
-Being in Switzerland has presented many firsts for us, and today is another one. 
+Being in Switzerland has presented many firsts for us, and today was another one. 
 We just went on our first corss-border walk.
 The price of food (especially chicken breast, which is a staple in my North American diet) feels quite high here.
 From our first inspections, 300g of chicken breast is costing around 7 CHF (approx. 10 CAD).
