@@ -50,14 +50,14 @@ A simple example.
 
 Need to decide whether I should run upstairs to get my umbrella but I'm running late for work. I undergo a decision process on two possible sets of facts; I go back for my umbrella or I do not. In the case where I do the set of facts is:
 
-The facts:
+The facts (we arbitrarily encode as \(x = 1 \) if true, \(x = -1 \) if false):
 
-1. I will be late for work: $x_1 = -1$.
-2. I will be more comfortable on my walk to work $x_2 = +1$.
+1. Will I be on time for work?: \(x_1 = -1 \).
+2. Will I be more comfortable on my walk to work \(x_2 = 1 \)$.
 
 If I care a lot about comfort, and not so much about my job, I might take these facts and generate the value set: $\omega_1 = 0, \omega_2 = 1$.
 
-So the outcome is $\text{sign}(0 \cdot -1 + 1 \cdot +1)$ which is positive, so I go back for the umbrella.
+So the outcome is \( \text{sign}(0 \cdot -1 + 1 \cdot +1) \) which is positive, so I go back for the umbrella.
 You can imagine the converse happening in the other scenario.
 You can also easily imagine that given the same set of facts, two people can come to opposing decisions.
 And since value sets do not exist concretely in the world, we have a problem on our hands when value sets are not compatible.
