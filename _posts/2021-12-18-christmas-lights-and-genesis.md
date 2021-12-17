@@ -29,6 +29,8 @@ Maybe we are just nostalgic for our childhoods looking forward to presents under
 You'll see later in the video how in the town hall there was a large crowd gathered just watching the tree. 
 But again I can ask why we even do that in the first place. I'm afraid the most common answer you get today is that its a silly superstition. That could be right but to explain away such a monumental superstition we should do a great deal of explaining. Chesterton has a good quote here
 
+![](/assets/tree.jpeg)
+
 There exists in such a case a certain institution or law; let us say, for the sake of simplicity, a fence or gate erected across a road. The more modern type of reformer goes gaily up to it and says, “I don’t see the use of this; let us clear it away.” To which the more intelligent type of reformer will do well to answer: “If you don’t see the use of it, I certainly won’t let you clear it away. Go away and think. Then, when you can come back and tell me that you do see the use of it, I may allow you to destroy it.”
 
 So when we got home I did a quick Wikipedia about the Christmas tree. As a side note. I recently saw a tweet from the co-founder of Wikipedia  There was lots of history around its origins in 1600s Germany and its possible origins as a way to bring pagan tree worshiping traditions into the christian ones.
