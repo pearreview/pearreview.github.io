@@ -17,6 +17,9 @@ And of course we added to our collection of business names that translate poorly
 What follows is something of a stream of consciousness around the meaning of Christmas trees and our modern times.
 I haven't had time to proof-read or structure the text at all, hopefully I will get back to it at some point but for now accept my apologies for any difficulties when rading.
 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zgfrnKKlmj8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## The Christmas Tree, Knowledge, and COVID
 
 I had never seen such a commitment to the Christmas tree. 
