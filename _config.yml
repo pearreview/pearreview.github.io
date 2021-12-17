@@ -4,7 +4,7 @@ email: carlos@ozeki.io # email of site's author
 url: https://victoriaandcarlos.com # root address of the site
 baseurl:  # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
-  Thoughts and pictures of life starting from our move to Basel, Switzerland.
+  Thoughts and pictures of life starting from our move to Basel, Switzerland 2021.
 permalink: /:slug.html
 
 favicon: "logo.png" # name+extension of favicon (which must be put on the root folder)
