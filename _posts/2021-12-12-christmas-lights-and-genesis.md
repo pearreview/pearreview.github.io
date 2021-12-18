@@ -64,7 +64,6 @@ In any case, I think we can all do with a bit of meditation next time we see a C
 
 ## How to get your mind blown and your bike stolen in Berlin 
 
-In any case we continue walking. 
 Yesterday we had our first guests visit our apartment. 
 Two girls from our German class came over for tea and cookies. 
 It was an undeniable success. 
